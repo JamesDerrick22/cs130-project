@@ -1,5 +1,8 @@
 # Team Fragility and Winning in the NBA
 ## League-wide patterns in player performance
+
+![Team fragility vs winning percentage](team_fragility_scatter.png)
+
 - Across the league, there is a loose relationship between average player performance swings, between wins and losses, and win percentage. This suggests that team success does not rely on standout performances alone, but how reliably production gets distributed. For example, a team may rely on several "role players" to outperform their average on a given night rather than one "star player" carrying the load. This means that when one or two players fall back to their baseline or worse, the overall performance takes a sharp dip, leading to inconsistenet results. In contrast, teams with more stable production from a star player can absorb off nights from role players without seeing the same swing in outcomes.
 ## What "fragility" looks like at the team level
 - At the team level, fragility appears when a team shows larger player performance difference swings, but does not convert those swings into consistent wins. On the scatter plot, these teams appear on the far right, towards the bottom. This suggests that strong individual nights matter less when they are not anchored by a reliable top-end star player. As a result, outcomes become more inconsistent, depending on multiple players to play well at the same time.
