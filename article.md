@@ -11,6 +11,9 @@
 - That gap is meaningful. Rather than counting games equally, the analysis reflects what a typical night looks like for the roster as a whole. 
 - This discrepancy suggests that Chicago's actual record outperformed what their player-level performance consistently supported — rather than functioning as a prediction, the results highlight a baseline produced by player performance, emphasizing the idea of fragility. When wins depend on several players exceeding their baseline at the same time, success becomes harder to sustain night to night.
 ## Comparing Chicago to stable contenders
+
+![Chicago Bulls compared to Thunder and other Contenders](Bulls_Thunder_fragility_scatter.png)
+
 - When comparing Chicago to a stable contender like the Oklahoma City Thunder, it becomes clear why consistency matters. The Thunder can rely on steady production from the MVP of the league Shai Gilgeous-Alexander. Shai, in wins or losses, boasts an average gamescore above 20, meaning that if another player has an off night, Shai can keep the ship afloat.
 
 ![Shai Gilgeous-Alexander average GameScore in wins vs losses](sga_gs_wins_losses.png)
