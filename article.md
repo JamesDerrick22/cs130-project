@@ -13,6 +13,7 @@
 ## Comparing Chicago to stable contenders
 
 ![Chicago Bulls compared to Thunder and other Contenders](Bulls_Thunder_fragility_scatter.png)
+- Highlighted above are 4 types of teams; The Washington Wizards, a struggling fragile team; The Chicago Bulls, a Middle of the pack yet fragile team; The Minneosota Timberwolves, a good steady team; and the Oklahoma City Thunder, an elite strong team. 
 
 - When comparing Chicago to a stable contender like the Oklahoma City Thunder, it becomes clear why consistency matters. The Thunder can rely on steady production from the MVP of the league Shai Gilgeous-Alexander. Shai, in wins or losses, boasts an average gamescore above 20, meaning that if another player has an off night, Shai can keep the ship afloat.
 
