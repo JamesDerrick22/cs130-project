@@ -10,7 +10,7 @@
 ## Comparing Chicago to stable contenders
 - When comparing Chicago to a stable contender like the Oklahoma City Thunder, it becomes clear why consistency matters. The Thunder can rely on steady production from the MVP of the league Shai Gilgeous-Alexander. Shai, in wins or losses, boasts an average gamescore above 20, meaning that if another player has an off night, Shai can keep the ship afloat.
 
-![shai Gilgeous-Alexander average GameScore in wins vs losses]('sga_gs_wins_losses.png')
+![Shai Gilgeous-Alexander average GameScore in wins vs losses](sga_gs_wins_losses.png)
 
 - Chicago on the other hand does not have that margin for error. Wins depend on several players exceeding their baseline at the same time. when one or two fall back to average or below average, results swing quickly, leading to inconsistency over the course of an 82 game season.
 ## What this suggests for the Bulls going forward
