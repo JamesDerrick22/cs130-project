@@ -15,14 +15,14 @@
 ![Chicago Bulls compared to Thunder and other Contenders](Bulls_Thunder_fragility_scatter.png)
 - Highlighted above are 4 types of teams; The Washington Wizards, a struggling fragile team; The Chicago Bulls, a Middle of the pack yet fragile team; The Minneosota Timberwolves, a good steady team; and the Oklahoma City Thunder, an elite strong team. 
 
-- When comparing Chicago to a stable contender like the Oklahoma City Thunder, it becomes clear why consistency matters. The Thunder can rely on steady production from the MVP of the league Shai Gilgeous-Alexander. Shai, in wins or losses, boasts an average gamescore above 20, meaning that if another player has an off night, Shai can keep the ship afloat.
+- When comparing Chicago to a stable contender like the Thunder, it becomes clear why consistency matters. The Thunder can rely on steady production from the MVP of the league Shai Gilgeous-Alexander. Shai, in wins or losses, boasts an average gamescore above 20, meaning that if another player has an off night, Shai can keep the ship afloat.
 
 ![Shai Gilgeous-Alexander average GameScore in wins vs losses](sga_gs_wins_losses.png)
 
 - Chicago on the other hand does not have that margin for error. Wins depend on several players exceeding their baseline at the same time. when one or two fall back to average or below average, results swing quickly, leading to inconsistency over the course of an 82 game season.
 ## What this suggests for the Bulls going forward
 - The Bulls find themselves in a position where they need to acquire a "star" player. Someone who can sustain the blow of off-nights from role players.
-- Now these stats are from last season, and Chicago is off to a better start this year with acquisitions like Josh Giddey, Tre jones, Kevin Huerter, Isaac Okoro, and Zach Collins. The key missing piece however, remains. They need a star.
+- These stats are from last season, and Chicago is off to a better start this year with acquisitions like Josh Giddey, Tre jones, Kevin Huerter, Isaac Okoro, and Zach Collins. The key missing piece however, remains. They need a star.
 - With Giannis Antetekounmpo reportedly wanting out of Milwaukee, The Bulls should have one thing in mind. Do whatever it takes to trade for him. Adding a true top-end scorer would shift Chicago away from fragility and towrad true stability.
 ## Conclusion
 - This analysis suggestst that winning depends less on peak performances and more on how reliably production is sustained. Teams without a consistent top-end scorer have wider swings in outcomes. Fragility helps explain why those swings persist over a full season
