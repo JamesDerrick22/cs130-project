@@ -25,4 +25,4 @@
 - These stats are from last season, and Chicago is off to a better start this year with acquisitions like Josh Giddey, Tre jones, Kevin Huerter, Isaac Okoro, and Zach Collins. The key missing piece however, remains. They need a star.
 - With Giannis Antetekounmpo reportedly wanting out of Milwaukee, The Bulls should have one thing in mind. Do whatever it takes to trade for him. Adding a true top-end scorer would shift Chicago away from fragility and toward stability.
 ## Conclusion
-- This analysis suggestst that winning depends less on peak performances and more on how reliably production is sustained. Teams without a consistent top-end scorer have wider swings in outcomes. Fragility helps explain why those swings persist over a full season
+- This analysis suggestst that winning depends less on peak performances and more on how reliably production is sustained. Teams without a consistent top-end scorer have wider swings in outcomes. Fragility helps explain why those swings persist over a full season.
